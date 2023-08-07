@@ -36,9 +36,11 @@ the following command to test it in the console.
 $ (venv) python chat.py
 ```
 
-# Demonstration
+## Demonstration
 
 ![c1](https://github.com/RahmaHaouas/platform/assets/93491702/f5cfcebc-22b2-418a-9ae5-c11c0b6d95a7)
+
+
 ![c2](https://github.com/RahmaHaouas/platform/assets/93491702/3c48fb6e-d0e5-43df-a78f-ab8d3a7854d1)
 
 
