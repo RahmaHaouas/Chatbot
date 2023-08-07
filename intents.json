@@ -1,0 +1,138 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["By", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "Problem",
+      "patterns": [
+        "I am not good",
+        "I have a problem",
+        "Can you help me?",
+        "I need you !"
+      ],
+      "responses": [
+        "what's up?",
+        "What's the problem?",
+        "Are you ok?",
+        "Can I help you?"
+      ]
+    },
+    {
+      "tag": "Symptom",
+      "patterns": [
+        "I have an abnormal posture",
+        "My reflexes are exaggerated deep tendon",
+        "I do repetitive jerky motions"
+      ],
+      "responses": [
+        "Tt is an unusual tightness",
+        "This is an increased muscle tone",
+        "These symptoms related to spasticity"
+      ]
+    },
+
+{
+      "tag": "Solutions",
+      "patterns": [
+        "What can I do",
+        "What is the solution",
+        "How can I be good",
+        "How can I feel good"
+      ],
+      "responses": [
+        "You must have treatments",
+        "You should have rehalibitation",
+        "You must practice exercices according to your problem"
+      ]
+    },
+
+    
+
+    {
+      "tag": "upper limb",
+      "patterns": [
+        "I have problem in my arm",
+        "I have problem in my hand",
+        "I have problem on my shoulder",
+        "I have problem in my back",
+        "I have problem in my elbow",
+        "I have problem in my forarm"
+      ],
+      "responses": [
+        "You must have swimming program",
+        "You must have shoulder twenty strengthening program",
+        "You should practise sport such as athletics and muscle games",
+        "You must have physical fitness for health and sports"
+      ]
+    },
+
+ {
+      "tag": "lower limb",
+      "patterns": [
+        "I have problem in my foot",
+        "I have problem on my knee",
+        "I have problem in my leg"
+      ],
+      "responses": [
+        "You must have football program",
+        "You must have foot twenty strengthening program",
+        "You should practise sport such as running and jumping",
+        "You must have physical fitness for health and sports"
+      ]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?"
+      ],
+      "responses": [
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+        "What did the buffalo say when his son left for college? Bison."
+      ]
+    },
+    {
+      "tag": "words",
+      "patterns": [
+        "ok",
+        "so",
+        "oh"
+      ],
+      "responses": [
+        "ok",
+        "so what",
+        "ye"
+      ]
+    }
+  ]
+}
